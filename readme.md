@@ -10,15 +10,15 @@ $ pip install -r requirements.txt
 ```
 
 
-#执行
+## 执行
 
  修改爬取关键字
-
 /spiders/baiduimage.py
 
+```
 pages = 100
 keywords = list(set(['日本人']))
-
+```
 
 ```
 $ python3 main.py
