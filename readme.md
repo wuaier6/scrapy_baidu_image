@@ -13,7 +13,8 @@ $ pip install -r requirements.txt
 ## 执行
 
  修改爬取关键字
-/spiders/baiduimage.py
+
+> /JiashanRencai/spiders/baiduimage.py
 
 ```
 pages = 100
